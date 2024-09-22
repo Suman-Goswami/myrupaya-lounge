@@ -46,7 +46,7 @@ const LoungeSearch = () => {
 
   return (
     <div className="container">
-      <h1>Search for a Credit Card</h1>
+      <h1>Free Lounge Access in Indian Airport of Credit Cards</h1>
       <input
         type="text"
         value={searchValue}
